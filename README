@@ -1,0 +1,2 @@
+mvn tomcat:run -Dmaven.tomcat.port=8080
+mvn tomcat:run -Dmaven.tomcat.port=9090
